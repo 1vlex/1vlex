@@ -42,7 +42,7 @@
 
 **Контакты**:  
 ✉️ **Email**:  
-[![Email](https://img.shields.io/badge/Copy-galiy.ivan2003@mail.ru-informational?style=flat&logo=mail.ru)](mailto:galiy.ivan2003@mail.ru)  
-[![Email](https://img.shields.io/badge/Copy-ingalii@edu.hse.ru-informational?style=flat&logo=gmail)](mailto:ingalii@edu.hse.ru)  
+`galiy.ivan2003@mail.ru` <sub>[[📋]](https://placeholder.com "Скопировать")</sub>  
+`ingalii@edu.hse.ru` <sub>[[📋]](https://placeholder.com "Скопировать")</sub>  
 
-📱 **Telegram**: [![Telegram](https://img.shields.io/badge/@irbix7-2CA5E0?style=flat&logo=telegram)](https://t.me/irbix7)
+📱 **Telegram**: [@irbix7](https://t.me/irbix7)
