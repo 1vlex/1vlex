@@ -43,4 +43,4 @@
 
 **Контакты**:  
 ✉️ **Email**: [galiy.ivan2003@mail.ru](mailto:galiy.ivan2003@mail.ru) | [ingalii@edu.hse.ru](mailto:ingalii@edu.hse.ru)  
-📱 **Telegram**: [@itbix7](https://t.me/itbix7)  
+📱 **Telegram**: [@itbix7](https://t.me/irbix7)  
