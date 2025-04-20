@@ -42,7 +42,7 @@
 
 **Контакты**:  
 ✉️ **Email**:  
-`galiy.ivan2003@mail.ru` <a href="#" onclick="this.innerHTML='📋 Скопировано!'; setTimeout(()=>this.innerHTML='📋', 2000)">📋</a>  
-`ingalii@edu.hse.ru` <a href="#" onclick="this.innerHTML='📋 Скопировано!'; setTimeout(()=>this.innerHTML='📋', 2000)">📋</a>  
+`galiy.ivan2003@mail.ru` → 📋 (кликните, чтобы скопировать)  
+`ingalii@edu.hse.ru` → 📋 (кликните, чтобы скопировать)  
 
 📱 **Telegram**: [@irbix7](https://t.me/irbix7)
