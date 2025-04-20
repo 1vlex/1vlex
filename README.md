@@ -2,7 +2,6 @@
 **Data Analyst & Data Scientist**  
 
 [![Views](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/1vlex)
-![](https://komarev.com/ghpvc/?username=1vlex)
 
 ---
 
