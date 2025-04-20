@@ -1,5 +1,7 @@
 # Иван Галий  
 **Data Analyst & Data Scientist**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1vlex&show_icons=true&theme=radical)
+
 
 ---
 
