@@ -1,8 +1,5 @@
 # Иван Галий  
 **Data Analyst & Data Scientist**  
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/1vlex&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits)
-
-
 ---
 
 ### 📌 **Ключевые навыки**  
