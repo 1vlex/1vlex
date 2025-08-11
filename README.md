@@ -6,7 +6,7 @@
 ---
 
 ### 📌 **Ключевые навыки**  
-- **Data Science**: Python (Pandas, Scikit-learn, TensorFlow, Prophet), SQL, Time Series, NLP, Computer Vision  
+- **Data Science**: Python (Pandas, Scikit-learn, TensorFlow, PyTorch, Prophet), SQL, Time Series, NLP, Computer Vision  
 - **Аналитика**: автоматизация отчетности, создание дашбордов (Dash, Plotly), оптимизация ETL-процессов  
 - **Инструменты**: OLAP-кубы, Power BI, Greenplum
 - **Доп инструменты**: Docker, FastAPI
