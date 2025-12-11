@@ -66,7 +66,7 @@ Telegram: [@irbix7](https://t.me/irbix7)
 
 <sub>Profile views counter:</sub>  
 <p align="left">
-  <img src="https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg" />
+  <img src="https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg" width="200"/>
 </p>
 
 
