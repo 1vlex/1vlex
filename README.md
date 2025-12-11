@@ -9,6 +9,8 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-013243)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=python&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
