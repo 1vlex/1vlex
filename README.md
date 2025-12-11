@@ -1,24 +1,24 @@
 # Иван Галий  
 **ML Engineer / Data Scientist**
 
-![Python](https://img.shields.io/badge/Python-3572A5?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?logoColor=black)
-![LightGBM](https://img.shields.io/badge/LightGBM-013243)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?logo=catboost&logoColor=black)
+![LightGBM](https://img.shields.io/badge/LightGBM-00B200?logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=python&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker)
+![YOLO](https://img.shields.io/badge/YOLO-00A8E8?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ---
 
