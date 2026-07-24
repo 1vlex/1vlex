@@ -55,8 +55,8 @@ ML инженер с опытом разработки end to end решений
 ---
 
 ## 📫 Контакты
-Email: `galiy.ivan2003@mail.ru`  
-Telegram: [@irbix7](https://t.me/irbix7)
+Email: `ivangaliy@yandex.ru`  
+Telegram: [@ivlex03](https://t.me/ivlex03)
 
 ---
 
